@@ -1,0 +1,49 @@
+{
+	"basics":{
+		"name":"teju",
+		"email":" teju@gmail.com",
+		"mobile":"9723451678"
+	},
+	"career": {
+		"info": "To pursue a challenging career and be a part of progressive organization that gives a scope to enhance my knowledge and utilizing my skills towards the growth of the organization"
+	},
+	"education":[
+		{
+			"degree":"B.Tech(C.S.E)",
+			"institute":"Avanthi",
+			"data":["2015-19","76%"]
+		},
+		{
+			"degree":"Intermediate/Diploma",
+			"institute":"SRI Chaitanya junior college",
+			"data":["2013-2015","84.7%"]
+		},
+		{
+			"degree":"S.S.C",
+			"institute":"St.Mary's school",
+			"data":["2013","85%"]
+		}
+	],
+	"skills":[
+		{
+			"title":"programming Languages",
+			"info":["C","C++","Java","python","R"]
+		},
+		{
+			"title":"Databases",
+			"info":["mongDb","mySql","oracle"]
+		},
+		{
+			"title":"Web Technologies",
+			"info":["HTML5","CSS3","JavaScript"]
+		},
+		{
+			"title":"Libraries and Frameworks",
+			"info":["ionic","Angular","expressJs",".net","Django"]
+		},
+		{
+			"title":"Operating Systems",
+			"info":["Windows","Linux","DOS"]
+		}
+	]
+}
